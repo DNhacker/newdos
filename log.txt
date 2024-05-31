@@ -1,0 +1,97 @@
+UserID: 1302901250 | Time: 2024-05-20 07:04:20.007755 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-20 07:05:15.694901 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-20 07:08:24.940239 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-20 07:09:45.859322 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:42:27.825783 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:44:00.046169 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:46:32.475847 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:47:18.288893 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:48:28.246843 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 05:52:03.921966 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478 | Time: 180
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 180
+
+UserID: 1302901250 | Time: 2024-05-21 06:26:51.623889 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+UserID: 1302901250 | Time: 2024-05-21 06:30:49.280822 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-21 06:30:49.283313
+
+UserID: 1302901250 | Time: 2024-05-21 06:32:50.135818 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-21 06:32:50.136004
+
+UserID: 1302901250 | Time: 2024-05-21 06:33:19.004792 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-21 06:33:19.005062
+
+UserID: 1302901250 | Time: 2024-05-21 06:39:34.454368 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-21 06:39:34.456140
+
+UserID: 1302901250 | Time: 2024-05-27 08:09:31.930550 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-27 08:09:31.933304
+
+UserID: 1302901250 | Time: 2024-05-27 08:12:23.465959 | Command: /bgmi | Target: 20.235.51.69 | Port: 17478
+Username: @stupid_hacker
+Target: 20.235.51.69
+Port: 17478
+Time: 2024-05-27 08:12:23.471990
+
